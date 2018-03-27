@@ -17,4 +17,11 @@ objectively. The model will also include a stick on a tongue
 to be inserted and swished around the mouth to disperse saliva.
 
 A video of the working model can be downloaded from this url:
+
              http://13.59.49.92/mm_demo.mov
+
+A video of the model demonstrating salivation while chewing:
+
+			http://13.59.49.92/saliva_demo.mov
+
+
